@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: Spring Boot Blank Project (from https://github.c
+ om/making/spring-boot-blank)
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.twitter.example
+Build-Jdk: 1.7.0_91
+Built-By: anant.pathak
+Created-By: Maven Integration for Eclipse
+Main-Class: com.twitter.example.TweetTime.App
+

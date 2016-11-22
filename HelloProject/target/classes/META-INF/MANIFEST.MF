@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: HelloProject
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: SampleProject
+Build-Jdk: 1.7.0_91
+Built-By: anant.pathak
+Created-By: Maven Integration for Eclipse
+Main-Class: Application.App
+
